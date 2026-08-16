@@ -1,0 +1,2 @@
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBemLRlyt0Z1ofncui7OCIdbvwt1yXfCBGnly0InvJ9y root@localhost.localdomain
